@@ -60,3 +60,4 @@ $emailer -> addRecipients("anand.bhople@gmail.com; anandbhopale.u@cognizant.com"
 $emailer -> sendEmail();
 
 echo 'Email has sent successufully';
+echo 'Changed';
